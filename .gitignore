@@ -1,0 +1,21 @@
+# ignore the following files and folders
+.codekit-cache/
+db-backup/
+download/
+exp/
+fb/
+library/
+node_modules/
+sns/
+test/
+wp/
+wp-backup/
+.htaccess
+bs-config.js
+codekit-config.json
+config.codekit
+favicon.ico
+index.php
+rriver2-alias
+test.php
+.DS_Store

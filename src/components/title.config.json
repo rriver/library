@@ -1,0 +1,23 @@
+{
+    "title": "Title",
+    "preview": "@preview-title",
+    "context": {
+      "titleText": "デフォルトのタイトル"
+    },
+    "variants": [
+        {
+            "name": "responsive web",
+            "context": {
+              "category": "cat-item-108",
+              "titleText": "レスポンシブWebデザイン・カテゴリのタイトル"
+            }
+        },
+        {
+            "name": "development",
+            "context": {
+              "category": "cat-item-4",
+              "titleText": "ウェブ制作・運営ノウハウ・カテゴリのタイトル"
+            }
+        }
+    ]
+}
