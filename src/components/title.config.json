@@ -7,6 +7,7 @@
     "variants": [
         {
             "name": "responsive web",
+            "label": "レスポンシブWeb",
             "context": {
               "category": "cat-item-108",
               "titleText": "レスポンシブWebデザイン・カテゴリのタイトル"
